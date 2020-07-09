@@ -1,2 +1,4 @@
 # bookish-octo-carnival
-second repository
+
+halo
+ini adalah repository keduaku
